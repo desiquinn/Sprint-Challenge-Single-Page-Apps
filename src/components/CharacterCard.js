@@ -1,5 +1,6 @@
 import React from 'react'
 
 export default function CharacterCard ({ /* add props */ }) {
-  return (<span>todo: location</span>
+  // image={image}
+  return (<span>todo: character</span>)
 }
